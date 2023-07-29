@@ -1,6 +1,6 @@
 # peanut_app
 
-A new Flutter project.
+A Flutter project using clean architecture.
 
 ## Getting Started
 
